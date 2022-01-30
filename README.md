@@ -22,9 +22,9 @@ Raccontano l'approcio alla gestione del denaro dal punto di vista emotivo e
 delle abitudini. Una volta impostata la corretta _forma mentis_ il resto è in
 discesa.
 
-- _O la borsa o la vita. 9 passi per trasformare il tuo rapporto con il denaro e ottenere l'indipendenza finanziaria_ - Vicki Robin, Joe Dominguez
-- _Padre ricco padre povero. Quello che i ricchi insegnano ai figli sul denaro_ - Robert Kiyosaki
-- _Soldi_ - Tony Robbins
+- **O la borsa o la vita. 9 passi per trasformare il tuo rapporto con il denaro e ottenere l'indipendenza finanziaria** - Vicki Robin, Joe Dominguez
+- **Padre ricco padre povero. Quello che i ricchi insegnano ai figli sul denaro** - Robert Kiyosaki
+- **Soldi** - Tony Robbins
 
 ### Blog
 - [Finanza cafona](https://finanzacafona.it/)
@@ -44,8 +44,8 @@ Come qualsiasi argomento, le risorse online in inglese abbondano. Nonostante
 i punti di vista USA centrici, i contenuti e gli insegnamenti restano validi.
 
 ### Libri in inglese
-- _The simple path to wealth_ - J. L. Collins
-- _Quite like a millionaire_ - Kristy Shen
+- **The simple path to wealth** - J. L. Collins
+- **Quit like a millionaire** - Kristy Shen
 
 ### Blog in inglese
 - [Mr Money Mustache](https://www.mrmoneymustache.com/)
