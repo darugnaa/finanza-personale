@@ -35,6 +35,12 @@ discesa.
 - [Forum di Finanza on-line (FOL)](https://www.finanzaonline.com/forum/index.php)
 - [Di Bollette e Contratti Luce (+ Gas) - La Guida alla Bolletta di r/Italy](https://www.reddit.com/r/italy/wiki/guidabollettaluce)
 
+ETF presenti sulla Borsa Italiana (autore: money4nothing), filtrabili per
+diversi criteri di redditività e altre caratteristiche.  
+ETF a distribuzione [Google spreadsheet](https://docs.google.com/spreadsheets/d/1QgChrPpy3Jfmra7DJJ0dO5-gC0RT_9efKxhABQJsVWQ/edit?usp=sharing),
+[FOL](https://www.finanzaonline.com/forum/etf-fondi-e-gestioni-e-investment-certificates/1941109-etf-con-buoni-alti-dividendi-vol-3-indice-1-pagina.html)  
+ETF ad accumulazione [Google spreadsheet](https://docs.google.com/spreadsheets/d/13OXniAGyrOpjPNQcYbyJ_ybzgk22-Ge8iJSMT6yYC4I/edit?usp=sharing), [FOL](https://www.finanzaonline.com/forum/etf-fondi-e-gestioni-e-investment-certificates/1794513-etf-ad-accumulazione.html?s=e98a475fadaee9878022e49d222cd16c)
+
 ### Canali youtube
 - [Pietro Michelangeli "Personal Finance. Now."](https://www.youtube.com/c/PietroMichelangeli)
 
