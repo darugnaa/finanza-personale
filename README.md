@@ -11,7 +11,10 @@ ma non altri.
 ## Italiano
 Eccoti una lista curata risorse completamente in italiano. Curata significa
 che ho personalmente letto, seguito, guardato i contenuti e mi sento di
-raccomandarli.
+raccomandarli.  
+Se ti sembra manchi qualcosa, segnalamelo tramite una nuova
+[issue](https://github.com/darugnaa/finanza-personale/issues/new) qui in
+GitHub.
 
 ### Libri
 Per cominciare consiglio questi libri che parlano di soldi solo marginalmente.
