@@ -30,8 +30,6 @@ discesa.
 - [Finanza cafona](https://finanzacafona.it/)
 - [Investire con buon senso](https://investireconbuonsenso.com/)
 
-Piccola rubrica [](https://retireinprogress.com/blog/italiano/ufficio-antisqualo/)
-
 ### Altre risorse online
 - [Italia Personal Finance su reddit](https://www.reddit.com/r/ItaliaPersonalFinance/)
 - [Forum di Finanza on-line (FOL)](https://www.finanzaonline.com/forum/index.php)

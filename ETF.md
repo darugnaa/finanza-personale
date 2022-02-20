@@ -17,8 +17,8 @@ che non c'è nessuno che decide attivamente "cosa" inserire nel fondo. Un ETF
 banalmente copia un qualche indice finanziario.
 
 Un esempio è l'indice _MSCI World_, che racchiude le economie sviluppate: USA,
-Europa, Giappone, Australia. Diverse compagnie hanno creato ETF che ricalcano
-l'indice_ MSCI World_, con diverse caratteristiche. Il sito
+Europa, Giappone, Australia. Vari gestori hanno creato ETF che ricalcano
+l'indice _MSCI World_, con diverse caratteristiche. Il sito
 [JustETF ne elenca ben 13](https://www.justetf.com/it/how-to/msci-world-etfs.html).
 
 Come faccio a scegliere quello più adatto a me?  
@@ -32,17 +32,17 @@ grande è il fondo. Un ETF troppo piccolo non è redditizio per il gestore.
 Il rischio è che il gestore chiuda l'ETF, rimborsandone il controvalore.
 Mi ritroverei a dover pagare tasse sulle plusvalenze e senza investimento.
 
-> < 100 milioni: "piccolo", rischio chiusura se non cresce negli anni
-> 100-500: medio
+> < 100 milioni: "piccolo", rischio chiusura se non cresce negli anni  
+> 100-500: medio  
 > \> 500: grande
 
 ### Total Expense Ratio (TER)
 Questo è il costo annuale dell'ETF. Più basso è, meglio è. Io seguo questa
 tabella:
 
-> < 0.25%: costo basso 
-> 0.25% - 0.50%: costo medio, può valere la pena
-> 0.50% - 0.75%: costo alto, può valere la pena per settori speculativi
+> < 0.25%: costo basso  
+> 0.25% - 0.50%: costo medio, può valere la pena  
+> 0.50% - 0.75%: costo alto, può valere la pena per settori speculativi  
 > \> 0.75%: costo troppo alto 
 
 ### Uso dei profitti
@@ -74,3 +74,5 @@ L'errore di tracciamento è la misura di quanto l'ETF si discosta dall'indice.
 Lo scostamento può essere dovuto a vari fattori, ad esempio il TER, il metodo
 di replica.  
 Gli ETF più grandi e "famosi" hanno degli errori piuttosto contenuti.
+
+[Home](README.md)
