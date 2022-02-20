@@ -44,6 +44,8 @@ ETF a distribuzione [Google spreadsheet](https://docs.google.com/spreadsheets/d/
 [FOL](https://www.finanzaonline.com/forum/etf-fondi-e-gestioni-e-investment-certificates/1941109-etf-con-buoni-alti-dividendi-vol-3-indice-1-pagina.html)  
 ETF ad accumulazione [Google spreadsheet](https://docs.google.com/spreadsheets/d/13OXniAGyrOpjPNQcYbyJ_ybzgk22-Ge8iJSMT6yYC4I/edit?usp=sharing), [FOL](https://www.finanzaonline.com/forum/etf-fondi-e-gestioni-e-investment-certificates/1794513-etf-ad-accumulazione.html)
 
+Ho preparato una [spiegazione delle principali caratteristiche di un ETF](ETF.md).
+
 ### Canali youtube
 - [Pietro Michelangeli "Personal Finance. Now."](https://www.youtube.com/c/PietroMichelangeli)
 
