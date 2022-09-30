@@ -36,6 +36,7 @@ discesa.
 - [Di Bollette e Contratti Luce (+ Gas) - La Guida alla Bolletta di r/Italy](https://www.reddit.com/r/italy/wiki/guidabollettaluce)
 - [Come Calcolare un Budget Mensile - WikiHow](https://www.wikihow.it/Calcolare-un-Budget-Mensile)
 - ["Quello che conta" - il portale dell'educazione finanziaria](http://www.quellocheconta.gov.it/it/)
+- [Calcolatore RAL -> stipendio netto mensile](https://www.calcolastipendionetto.it/)
 
 ETF presenti sulla Borsa Italiana (autore: money4nothing), filtrabili per
 diversi criteri di redditività e altre caratteristiche.  
@@ -48,6 +49,8 @@ Ho preparato una [spiegazione delle principali caratteristiche di un ETF](ETF.md
 ### Canali youtube
 - [Pietro Michelangeli "Personal Finance. Now."](https://www.youtube.com/c/PietroMichelangeli)
 
+### Documentari in Italiano
+- [Get Smart With Money: come gestire al meglio le tue finanze](https://www.netflix.com/it/title/81312877)
 
 ## Inglese
 Come qualsiasi argomento, le risorse online in inglese abbondano. Nonostante
@@ -61,3 +64,6 @@ i punti di vista USA centrici, i contenuti e gli insegnamenti restano validi.
 - [Mr Money Mustache](https://www.mrmoneymustache.com/)
 - [Financial Mechanic](https://financialmechanic.com/)
 - [The Fioneers](https://thefioneers.com/)
+
+### Documentari in inglese
+- [Playing with FIRE](https://www.playingwithfire.co/the-documentary)
